@@ -5,3 +5,5 @@ https://docs.google.com/document/d/1n8VFMTJOiNfd4ZrGBmrWmn3iPgO3GoYLweXJn4_vjak/
 _____________________________________________________________________________________________
 Debian 10
 https://docs.google.com/document/d/1jTxOq1LVjJCjiMYZG4y91UV8GRVI0Z1VXmyACYMyfLQ/edit?usp=sharing
+________________________________
+https://docs.google.com/document/d/1h7QD0rvnjkdDT1AEGqguL2TFoofSL_UpYS6qhkvr7Tw/edit?usp=sharing
